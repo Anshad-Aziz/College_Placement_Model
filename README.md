@@ -5,6 +5,7 @@ Description:
 Dive into the world of college placements with this dataset designed to unravel the factors influencing student placement outcomes. The dataset comprises crucial parameters such as IQ scores, CGPA (Cumulative Grade Point Average), and placement status. Aspiring data scientists, researchers, and enthusiasts can leverage this dataset to uncover patterns and insights that contribute to a deeper understanding of successful college placements.
 
 2. Projects Ideas:
+
 Project Idea 1: Predictive Modeling for College Placements
 Utilize machine learning algorithms to build a predictive model that forecasts a student's likelihood of placement based on their IQ scores and CGPA. Evaluate and compare the effectiveness of different algorithms to enhance prediction accuracy.
 
@@ -21,9 +22,9 @@ Project Idea 5: Visualization of Placement Dynamics Over Time
 Create dynamic visualizations to illustrate how placement trends evolve over time. Analyze trends, patterns, and fluctuations in placement rates to identify potential cyclical or seasonal influences on student placements.
 
 3. Columns Explanation:
+   
 IQ:
-
-Definition: Intelligence Quotient, a measure of a person's intellectual abilities.
+Definition: Intelligence Quotient, A measure of a person's intellectual abilities.
 Data Type: Numeric
 Range: Typically, IQ scores range from 70 to 130, with 100 being the average.
 CGPA:
